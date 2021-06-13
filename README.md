@@ -1,3 +1,8 @@
+**Juin 2020 – Projet transversal : WebApp de 6 modules de données journalières**
+- Responsable technique, architecte et dev web d’une équipe de 6 personnes
+
+<br><hr><br>
+
 # YourEverydaySunshine (YES) - webApp by Tajjet Team
 
 Projet de 1ère année de cycle ingénieur, réalisé au 06/2020 par une équipe de [6 personnes](github.com/Thiebosh/Tajjet/pulse/monthly).
